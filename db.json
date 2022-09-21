@@ -1,9 +1,9 @@
 {
     "elementos":[
-        {"id":"1","nome": "Agua"},
-        {"id":"2","nome": "Terra"},
-        {"id":"3","nome": "Fogo"},
-        {"id":"4","nome": "Ar"}
+        "Agua",
+        "Terra",
+        "Fogo",
+        "Ar"
     ],
     "inteiros":[
         "1","2","3","4","5","6","7","8","9","10"
